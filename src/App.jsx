@@ -601,7 +601,6 @@ function BibliotecaDigital() {
             Sistema Biblioteca Digital
           </h1>
           <p style={{ color: "#dbeafe", marginTop: "8px" }}>
-            Sprint 2 - Implementação Básica
           </p>
         </div>
       </div>
@@ -670,7 +669,6 @@ function BibliotecaDigital() {
             (Versionamento) | Draw.io (Diagramas)
           </p>
           <p style={{ fontSize: "12px", color: "#9ca3af", marginTop: "8px" }}>
-            Sprint 2 - LES
           </p>
         </div>
       </div>
